@@ -3,7 +3,7 @@ const { description } = require('../../package')
 module.exports = {
 
     dest: 'docs',
-    base: 'https://julioizquierdomejia.github.io/guia-angular/',
+    base: '/guia-angular/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
