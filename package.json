@@ -1,0 +1,19 @@
+{
+  "name": "angular",
+  "version": "0.0.1",
+  "description": "Curso de Agnular dictado en Certus",
+  "main": "index.js",
+  "authors": {
+    "name": "Julio Izquierdo Mejia",
+    "email": "julio.izquierdo.mejia@gmail.com"
+  },
+  "repository": "https://github.com/julioizquierdomejia/vuepress-angular.git/angular",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
