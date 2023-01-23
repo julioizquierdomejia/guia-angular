@@ -41,7 +41,14 @@ module.exports = {
       
     ],
     sidebar: [
-      
+      /*
+      '/01-Estructura-de-un-app-y-componentes/',
+      '/12-Directivas-personalizadas/',
+      '/16-Rutas/',
+      '/18-CRUD/'
+      */
+      '/01-Estructura-de-un-app-y-componentes/',
+      '/22-Login-Auth-FireBase/'
     ]
   },
 
